@@ -2,32 +2,32 @@
   .crack{
     width: 600px;
     height:300px;
-    background: url(images/CDcrack-P1.jpg) no-repeat;
+    background: url(CDcrack-P1.jpg) no-repeat;
     margin: 50px;
   }
 
   .crack:hover {
-    background: url(images/crack-P1.jpg) no-repeat;
+    background: url(crack-P1.jpg) no-repeat;
   }
 
   .the{
     width: 600px;
     height:300px;
-    background: url(images/CDthe-P1.jpg) no-repeat;
+    background: url(CDthe-P1.jpg) no-repeat;
     margin: 50px;
   }
 
   .the:hover {
-    background: url(images/the-P1.jpg) no-repeat;
+    background: url(the-P1.jpg) no-repeat;
   }
 
 .code{
     width: 600px;
     height:300px;
-    background: url(images/CDcode-P1.jpg) no-repeat;
+    background: url(CDcode-P1.jpg) no-repeat;
     margin: 50px;
   }
 
  .code:hover {
-    background: url(images/code-P1.jpg) no-repeat;
+    background: url(code-P1.jpg) no-repeat;
   }
